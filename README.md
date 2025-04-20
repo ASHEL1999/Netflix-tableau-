@@ -9,9 +9,11 @@ Table of contents:
 
 [Recomedations](recomedation)
 
-project summary :
+project over review :
 -
 - In this Netflix content analysis project, I explored a dataset containing information about Netflix’s global content library to uncover insights into content trends, growth over time, and audience targeting. Using Python for data cleaning and visualization tools like Tableau , I analyzed key metrics such as the distribution of movies vs. TV shows, content added per year, popular genres, ratings, and country-wise contributions. The project helped identify patterns in Netflix’s content strategy and provided valuable insights into viewer preferences and regional content availability.
+
+- [project Over review](project-overeview)
   
  Data Sources :
  -
